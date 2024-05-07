@@ -1,0 +1,22 @@
+p {
+    margin: 10px 10px 10px 10px; 
+}
+
+#especial {
+    color:red;
+    text-align: center;
+    front-size: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.diferente{
+    color: rgb(38, 0, 255);
+}
+
+img {
+    height: 100px;
+    widht: 100px
+}
